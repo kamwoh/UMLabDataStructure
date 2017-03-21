@@ -1,0 +1,4 @@
+(b) What is (are) the base condition(s) case for binary search?
+
+If the value is found, then it returns the index of the value
+If the value is not found and the searching range of array is out of bound, then it returns -1
